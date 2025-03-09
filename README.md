@@ -16,4 +16,4 @@ Olá, Bem vindo ao meu projeto de portfólio.
 
 ### Danilo Deama
 
-### Linkedin: [https://www.linkedin.com/school/aluracursos/](https://www.linkedin.com/in/danilodeama)
+### Linkedin: [Danilo Deama](https://www.linkedin.com/in/danilodeama)
